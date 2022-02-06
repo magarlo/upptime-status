@@ -6,14 +6,40 @@ sites:
   - name: Letsgoi
     url: https://www.letsgoi.com
     icon: https://www.letsgoi.com/favicon.ico
-  - name: SpinalCord
-    url: https://api-spinal-cord.letsgoi.com/droids
   - name: Brain
     url: https://brain.letsgoi.com
+  - name: SpinalCord
+    url: https://api-spinal-cord.letsgoi.com/droids
   - name: Jaw
-    url: https://api-jaw-letsgoi.com/droids
-  - name: Alb aws
-    url: https://dualstack.ec2co-ecsel-m3gt6fkz41u6-36475124.eu-west-1.elb.amazonaws.com
+    url: https://api-jaw.letsgoi.com/droids
+  - name: Cell
+    url: https://api-cell.letsgoi.com/droids
+  - name: Chin
+    url: https://api-chin.letsgoi.com/droids
+  - name: Dna
+    url: https://api-dna.letsgoi.com/droids     
+  - name: Eardrums
+    url: https://api-eardrums.letsgoi.com/droids
+  - name: Nose
+    url: https://api-nose.letsgoi.com/droids
+  - name: Peek
+    url: https://api-peek.letsgoi.com/droids            
+  - name: Quadriceps
+    url: https://api-quadriceps.letsgoi.com/droids
+  - name: Skin
+    url: https://api-skin.letsgoi.com/droids
+  - name: Thumb
+    url: https://api-thumb.letsgoi.com/droids  
+  - name: Docs
+    url: https://docs.letsgoi.com/   
+  - name: Metabase
+    url: https://metabase.letsgoi.com/               
+  - name: Almacenia
+    url: https://www.almacenia.com/
+  - name: N8n
+    url: https://n8n.letsgoi.com/
+  - name: Skull
+    url: https://skull.letsgoi.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,7 +47,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /upptime-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Upptime Letsgoi
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
