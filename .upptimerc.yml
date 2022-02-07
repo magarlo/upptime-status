@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Letsgoi
     url: https://www.letsgoi.com
-#    icon: https://www.letsgoi.com/favicon.ico
+    icon: https://letsgoi.com/favicon.ico
   - name: Brain
     url: https://brain.letsgoi.com
   - name: SpinalCord
