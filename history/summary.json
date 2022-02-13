@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/api-jaw.letsgoi.com",
     "slug": "jaw",
     "status": "up",
-    "uptime": "93.85%",
+    "uptime": "93.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.85%",
-    "uptimeMonth": "93.85%",
-    "uptimeYear": "93.85%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "93.90%",
     "time": 485,
     "timeDay": 656,
     "timeWeek": 485,
@@ -252,7 +252,7 @@
     "timeMonth": 507,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2022-02-13": 41,
+      "2022-02-13": 127,
       "2022-02-12": 1440,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
@@ -285,9 +285,9 @@
     "url": "https://www.almacenia.com/",
     "icon": "https://favicons.githubusercontent.com/www.almacenia.com",
     "slug": "almacenia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -296,7 +296,9 @@
     "timeWeek": 1390,
     "timeMonth": 1390,
     "timeYear": 1390,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   },
   {
     "name": "N8n",
@@ -315,7 +317,7 @@
     "timeMonth": 428,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2022-02-13": 41,
+      "2022-02-13": 127,
       "2022-02-12": 1440,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
