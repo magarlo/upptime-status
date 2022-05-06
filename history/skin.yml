@@ -1,7 +1,7 @@
 url: https://api-skin.letsgoi.com/droids
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-05-06T18:38:38.964Z
+status: up
+code: 200
+responseTime: 349
+lastUpdated: 2022-05-06T19:12:17.732Z
 startTime: Sun Feb 06 2022 20:26:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
