@@ -114,19 +114,19 @@
     "url": "https://api-dna.letsgoi.com/droids",
     "icon": "https://favicons.githubusercontent.com/api-dna.letsgoi.com",
     "slug": "dna",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 627,
-    "timeWeek": 433,
-    "timeMonth": 409,
-    "timeYear": 400,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 453,
+    "timeDay": 2983,
+    "timeWeek": 1046,
+    "timeMonth": 568,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2022-05-06": 4
+      "2022-05-06": 17
     }
   },
   {
@@ -135,18 +135,18 @@
     "icon": "https://favicons.githubusercontent.com/api-eardrums.letsgoi.com",
     "slug": "eardrums",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 410,
     "timeDay": 622,
     "timeWeek": 444,
     "timeMonth": 417,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2022-05-06": 3
+      "2022-05-06": 19
     }
   },
   {
@@ -154,19 +154,19 @@
     "url": "https://api-nose.letsgoi.com/droids",
     "icon": "https://favicons.githubusercontent.com/api-nose.letsgoi.com",
     "slug": "nose",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 407,
-    "timeDay": 657,
-    "timeWeek": 450,
-    "timeMonth": 411,
+    "timeDay": 510,
+    "timeWeek": 439,
+    "timeMonth": 410,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2022-05-06": 3
+      "2022-05-06": 16
     }
   },
   {
@@ -175,18 +175,18 @@
     "icon": "https://favicons.githubusercontent.com/api-peek.letsgoi.com",
     "slug": "peek",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 399,
     "timeDay": 631,
     "timeWeek": 439,
     "timeMonth": 408,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2022-05-06": 3
+      "2022-05-06": 18
     }
   },
   {
@@ -194,19 +194,19 @@
     "url": "https://api-quadriceps.letsgoi.com/droids",
     "icon": "https://favicons.githubusercontent.com/api-quadriceps.letsgoi.com",
     "slug": "quadriceps",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 397,
-    "timeDay": 604,
-    "timeWeek": 428,
-    "timeMonth": 404,
+    "timeDay": 484,
+    "timeWeek": 420,
+    "timeMonth": 403,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2022-05-06": 2
+      "2022-05-06": 16
     }
   },
   {
@@ -215,18 +215,18 @@
     "icon": "https://favicons.githubusercontent.com/api-skin.letsgoi.com",
     "slug": "skin",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 402,
     "timeDay": 603,
     "timeWeek": 438,
     "timeMonth": 405,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2022-05-06": 2
+      "2022-05-06": 17
     }
   },
   {
@@ -235,18 +235,18 @@
     "icon": "https://favicons.githubusercontent.com/api-thumb.letsgoi.com",
     "slug": "thumb",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 397,
     "timeDay": 614,
     "timeWeek": 430,
     "timeMonth": 400,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2022-05-06": 1
+      "2022-05-06": 17
     }
   },
   {
@@ -266,7 +266,7 @@
     "timeMonth": 523,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2022-05-06": 1121,
+      "2022-05-06": 1136,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
@@ -363,19 +363,19 @@
     "url": "https://metabase.letsgoi.com/",
     "icon": "https://favicons.githubusercontent.com/metabase.letsgoi.com",
     "slug": "metabase",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 1146,
-    "timeWeek": 768,
-    "timeMonth": 718,
-    "timeYear": 711,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 710,
+    "timeDay": 870,
+    "timeWeek": 746,
+    "timeMonth": 714,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2022-05-06": 1
+      "2022-05-06": 15
     }
   },
   {
@@ -384,11 +384,11 @@
     "icon": "https://favicons.githubusercontent.com/www.almacenia.com",
     "slug": "almacenia",
     "status": "up",
-    "uptime": "40.75%",
-    "uptimeDay": "30.68%",
-    "uptimeWeek": "4.38%",
+    "uptime": "40.76%",
+    "uptimeDay": "31.74%",
+    "uptimeWeek": "4.53%",
     "uptimeMonth": "20.59%",
-    "uptimeYear": "40.75%",
+    "uptimeYear": "40.76%",
     "time": 1438,
     "timeDay": 1698,
     "timeWeek": 1698,
@@ -471,7 +471,7 @@
     "timeMonth": 369,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2022-05-06": 1121,
+      "2022-05-06": 1136,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
@@ -568,19 +568,19 @@
     "url": "https://skull.letsgoi.com/",
     "icon": "https://favicons.githubusercontent.com/skull.letsgoi.com",
     "slug": "skull",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 360,
-    "timeDay": 567,
-    "timeWeek": 390,
-    "timeMonth": 366,
+    "timeDay": 454,
+    "timeWeek": 384,
+    "timeMonth": 365,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2022-05-06": 0
+      "2022-05-06": 15
     }
   }
 ]
