@@ -78,19 +78,19 @@
     "url": "https://api-cell.letsgoi.com/droids",
     "icon": "https://icons.duckduckgo.com/ip3/api-cell.letsgoi.com.ico",
     "slug": "cell",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 444,
-    "timeDay": 433,
-    "timeWeek": 416,
-    "timeMonth": 446,
+    "timeDay": 459,
+    "timeWeek": 424,
+    "timeMonth": 448,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2022-12-27": 0
+      "2022-12-27": 11
     }
   },
   {
@@ -268,7 +268,7 @@
     "timeMonth": 580,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2022-12-27": 824,
+      "2022-12-27": 835,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
@@ -772,7 +772,7 @@
     "timeMonth": 405,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2022-12-27": 824,
+      "2022-12-27": 835,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
