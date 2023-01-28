@@ -4,19 +4,19 @@
     "url": "https://www.letsgoi.com",
     "icon": "https://letsgoi.com/favicon.ico",
     "slug": "letsgoi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 220,
-    "timeWeek": 178,
-    "timeMonth": 164,
-    "timeYear": 198,
+    "time": 199,
+    "timeDay": 423,
+    "timeWeek": 234,
+    "timeMonth": 178,
+    "timeYear": 199,
     "dailyMinutesDown": {
-      "2023-01-28": 1
+      "2023-01-28": 11
     }
   },
   {
@@ -199,8 +199,8 @@
     "status": "down",
     "uptime": "98.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "36.28%",
-    "uptimeMonth": "85.34%",
+    "uptimeWeek": "36.18%",
+    "uptimeMonth": "85.31%",
     "uptimeYear": "98.74%",
     "time": 435,
     "timeDay": 509,
@@ -208,7 +208,7 @@
     "timeMonth": 445,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2023-01-28": 1285,
+      "2023-01-28": 1295,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
@@ -273,7 +273,7 @@
     "timeMonth": 537,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2023-01-28": 1285,
+      "2023-01-28": 1295,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
@@ -815,7 +815,7 @@
     "timeMonth": 429,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2023-01-28": 1285,
+      "2023-01-28": 1295,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
